@@ -43,3 +43,4 @@ npm install react-native-screens
 npm install @react-navigation/native-stack
 ```
 
+<img src="./src/assets/imageGit.png" alt="project layout"/>
